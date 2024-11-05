@@ -1,5 +1,4 @@
 
----
 
 # AWS CI/CD Pipeline for Web Application Deployment
 
